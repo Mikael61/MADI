@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg20.dtd" -->
+
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1100"
+   height="500"
+   id="svg242"
+   style="border:1px solid black"
+   >
+  
+  <title
+     id="title2">Utbildningsstruktur Masterprogram B&amp;I HT23</title>
+  <defs
+     id="defs15">
+    <filter
+       id="f4"
+       x="-0.054"
+       y="-0.19285714"
+       width="1.136"
+       height="1.4857143">
+      <feOffset
+         result="offOut"
+         in="SourceGraphic"
+         dx="7"
+         dy="7"
+         id="feOffset4" />
+      <feColorMatrix
+         result="matrixOut"
+         in="offOut"
+         type="matrix"
+         values="0.2 0 0 0 0 0 0.2 0 0 0 0 0 0.2 0 0 0 0 0 1 0"
+         id="feColorMatrix6" />
+      <feGaussianBlur
+         result="blurOut"
+         in="matrixOut"
+         stdDeviation="5"
+         id="feGaussianBlur8" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut"
+         mode="normal"
+         id="feBlend10" />
+    </filter>
+    <marker
+       id="head"
+       orient="auto"
+       markerWidth="2"
+       markerHeight="4"
+       refX="0.1"
+       refY="2">
+      <path
+         d="M0,0 V4 L2,2 Z"
+         fill="black"
+         id="path920" />
+    </marker>
+    <marker
+       id="head2"
+       orient="auto"
+       markerWidth="4"
+       markerHeight="8"
+       refX="0.1"
+       refY="2">
+      <path
+         d="M0,0 V4 L2,2 Z"
+         fill="black"
+         id="path9200" />
+    </marker>
+     
+     <linearGradient id="gradient">
+        <stop offset="30%" stop-color="#a6cee3" />
+        <stop offset="70%" stop-color="#ff0000" />
+     </linearGradient>
+     
+  </defs>
+   <g id="yearone">
+      <text
+         x="500"
+         y="30"
+         style="color:#000000;font-weight:bold;font-size:20pt;fill:#000000"
+         id="text39"><tspan
+            dy="5"
+            x="400"
+            id="tspan35">Utbildningens första år</tspan></text>
+   </g>
+   <g id="yeartwo">
+      <text
+         x="500"
+         y="30"
+         style="color:#000000;font-weight:bold;font-size:20pt;fill:#000000"
+         id="text390"><tspan
+            dy="260"
+            x="400"
+            id="tspan350">Utbildningens andra år</tspan></text>
+   </g>
+   <path
+      stroke-width="2"
+      fill="none"
+      marker-end="url(#head)"
+      stroke="black"
+      d="M 15, 30 L 230, 30, L 380, 30"
+      id="path17" />
+   
+   <path
+      stroke-width="2"
+      fill="none"
+      marker-end="url(#head)"
+      stroke="black"
+      d="M 15, 280 L 230, 280, L 380, 280"
+      id="path18" />
+   
+   
+   <path
+      stroke-width="2"
+      fill="none"
+      marker-end="url(#head)"
+      stroke="black"
+      d="M 700, 30 L 850, 30, L 1000, 30"
+      id="path19" />
+   
+   <path
+      stroke-width="2"
+      fill="none"
+      marker-end="url(#head)"
+      stroke="black"
+      d="M 700, 280 L 850, 280, L 1000, 280"
+      id="path20" />
+   
+   
+  <g
+     id="VFP"
+     transform="translate(-1077.8573,257.34671)">
+    <rect
+       x="1345.568"
+       y="51.108002"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect33"
+       style="fill:#800000;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="1363.3519"
+       y="70.512032"
+       style="color:#000000;font-weight:bold;font-size:18.6667px;fill:#ffffff"
+       id="text40"><tspan
+         dy="22.4"
+         x="1363.3519"
+         id="tspan45">Forskningsmetoder 2</tspan></text>
+  </g>
+  <g
+     id="BINF"
+     transform="translate(3.3240062,1.1080021)">
+    <rect
+       y="50"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect42"
+       x="0"
+       style="fill:#1f78b4;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="26.675993"
+       y="57.216003"
+       font-size="13pt"
+       font-weight="200"
+       id="text50"
+       style="font-weight:bold;font-size:15px;fill:#ffffff"><tspan
+         dy="18"
+         x="6.6759939"
+         id="tspan44">Biblioteks- och informations-</tspan><tspan
+         dy="18"
+         x="6.6759939"
+         id="tspan46">vetenskap som professions-</tspan><tspan
+         dy="18"
+         x="6.6759939"
+         id="tspan48">och forskningsområde</tspan></text>
+  </g>
+  <g
+     id="KO1"
+     transform="translate(3.3240062,-4.4320083)">
+    <rect
+       y="150"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect53"
+       x="0"
+       style="fill:#a6cee3;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="37.756016"
+       y="161.64801"
+       style="color:#000000;font-weight:bold;font-size:18px;fill:#000000"
+       id="text59"><tspan
+         dy="21.6"
+         x="17.756014"
+         id="tspan55">Introduktion till</tspan><tspan
+         dy="21.6"
+         x="17.756014"
+         id="tspan57">kunskapsorganisation</tspan></text>
+  </g>
+  <!--
+   <path
+      stroke-width="3"
+      fill="none"
+      marker-end="url(#head2)"
+      stroke="black"
+      d="M 50, 225 L 50, 260 L 400 260 L 400, 225"
+      id="path2x" /> 
+   -->
+  <g
+     id="KO2"
+     transform="translate(1.9756079e-8,-4.4320083)">
+    <rect
+       x="270"
+       y="150"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect71"
+       style="fill:#a6cee3;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="296.59204"
+       y="160.54001"
+       style="color:#000000;font-weight:bold;font-size:20px;fill:#000000"
+       id="text77"><tspan
+         dy="24"
+         x="306.59204"
+         id="tspan73">Kontrollerade</tspan><tspan
+         dy="24"
+         x="306.59204"
+         id="tspan75">vokabulärer</tspan></text>
+  </g>
+  <g
+     id="IR2"
+     transform="translate(0,-200.54838)">
+    <rect
+       x="270"
+       y="250"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect80"
+       style="fill:#b2df8a;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="299.91605"
+       y="272.72803"
+       style="color:#000000;font-weight:bold;font-size:20px;fill:#000000"
+       id="text86"><tspan
+         dy="24"
+         x="309.91605"
+         id="tspan82">Kulturpolitik</tspan></text>
+  </g>
+  <g
+     id="UIL"
+     transform="translate(-0.48914035,355.9589)">
+    <rect
+       y="50"
+       x="270"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect89"
+       style="fill:url(#gradient);stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="286.62003"
+       y="63.864017"
+       style="color:#000000;font-weight:bold;font-size:19px;fill:#ffffff"
+       id="text97"><tspan
+         dy="19.200001"
+         x="296.62003"
+         id="tspan91">Informationssökning som</tspan><tspan
+         dy="19.200001"
+         x="296.62003"
+         id="tspan93">professionell praktik</tspan></text>
+  </g>
+  <g
+     id="Users"
+     transform="translate(2.2160041)">
+    <rect
+       y="50"
+       x="540"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect100"
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="560"
+       y="61.648014"
+       style="color:#000000;font-weight:bold;font-size:17.33333397px;fill:#ffffff"
+       id="text108"><tspan
+         dy="20.800001"
+         x="560"
+         id="tspan102">Användare och</tspan><tspan
+         dy="20.800001"
+         x="560"
+         id="tspan104">informationspraktiker</tspan></text>
+  </g>
+  <g
+     id="IxD"
+     transform="translate(-807.50475,355.56879)">
+    <rect
+       y="50"
+       x="810"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect111"
+       style="fill:#33a02c;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="840.48407"
+       y="58.40403"
+       style="color:#000000;font-weight:bold;font-size:19px;fill:#ffffff"
+       id="text119"><tspan
+         dy="20.800001"
+         x="840.48407"
+         id="tspan113">Utveckla och leda</tspan><tspan
+         dy="20.800001"
+         x="840.48407"
+         id="tspan11">kultur- och informations-</tspan><tspan
+         dy="20.800001"
+         x="840.48407"
+         id="tspan12">verksamheter</tspan></text>
+  </g>
+  <g
+     id="Digarv">
+    <rect
+       y="150"
+       x="540"
+       width="520"
+       height="70"
+       rx="15"
+       id="rect122"
+       style="fill:#c83737;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="560"
+       y="155"
+       style="color:#000000;font-weight:bold;font-size:18px;fill:#ffffff"
+       id="text128"><tspan
+         dy="1.2em"
+         x="560"
+         id="tspan124">Digitalisering för bevarande</tspan><tspan
+         dy="1.2em"
+         x="560"
+         id="tspan126">och tillgängliggörande</tspan></text>
+  </g>
+  <g
+     id="IR"
+     transform="translate(-1077.1393,257.6745)">
+    <rect
+       x="1080"
+       y="50"
+       width="250"
+       height="80"
+       rx="15"
+       id="rect176"
+       style="fill:#806600;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="1100"
+       y="55"
+       style="color:#000000;font-weight:bold;font-size:22.6667px;font-family:Times, serif;fill:#ffffff"
+       id="text182"><tspan
+         dy="1.2em"
+         x="1100"
+         id="tspan178">Information</tspan><tspan
+         dy="1.2em"
+         x="1100"
+         id="tspan180">retrieval</tspan></text>
+  </g>
+  <g
+     id="Exarbete"
+     transform="translate(-1068.1507,269.65937)">
+    <rect
+       x="1620"
+       y="60"
+       width="520"
+       height="140"
+       rx="15"
+       id="rect192"
+       style="fill:#ac9393;stroke:#0000ff;stroke-width:3;filter:url(#f4)" />
+    <text
+       x="1630"
+       y="65"
+       style="color:#000000;font-weight:bold;font-size:22.6667px;font-family:Times, serif;fill:#ffffff"
+       id="text198"><tspan
+         dy="1.2em"
+         x="1630"
+         id="tspan194">Masteruppsats</tspan><tspan
+         dy="1.2em"
+         x="1630"
+         id="tspan196">(Examensarbete)</tspan></text>
+  </g>
+  <g
+     transform="translate(-535.165,-1.1080024)"
+     id="g1090">
+    <rect
+       style="fill:#800000;stroke:#0000ff;stroke-width:3;filter:url(#f4)"
+       id="rect1084"
+       rx="15"
+       height="80"
+       width="250"
+       y="51.108002"
+       x="1345.568" />
+    <text
+       id="text1088"
+       style="color:#000000;font-weight:bold;font-size:18.66666603px;fill:#ffffff"
+       y="70.512032"
+       x="1363.3519"><tspan
+         id="tspan1086"
+         x="1363.3519"
+         dy="22.4">Forskningsmetoder 1</tspan></text>
+  </g>
+ 
+</svg>
